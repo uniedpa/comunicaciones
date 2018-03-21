@@ -1,5 +1,5 @@
 function verifyEmailAddressInDoc() {
-  
+// Abre unos documentos Doc que contienen tablas con nombres y direcciones de correo y verifica que estas direcciones existan en una hoja de cálculo  
  // var document = docId ?
  //DocumentApp.openById(docId) :
   var docUrl= ""; 
